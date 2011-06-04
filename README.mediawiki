@@ -9,13 +9,14 @@ Basic information:
 # Maven
 
 === Run local ===
-#Run only GWT on jetty:
-##Set mock data to true in Constants.java <code>MOCK_DATA = true</code>
-##Run jetty: <code>mvn gwt:run</code>
 
-#Run GWT on GAE:
-##Set mock data to true in Constants.java <code>MOCK_DATA = false</code>
-##Run jetty: <code>mvn gae:run</code>
+*Run only GWT on jetty:
+*#Set mock data to true in Constants.java <code>MOCK_DATA = true</code>
+*#Run jetty: <code>mvn gwt:run</code>
+
+*Run GWT on GAE:
+*#Set mock data to true in Constants.java <code>MOCK_DATA = false</code>
+*#Run jetty: <code>mvn gae:run</code>
 
 === Contact ===
-If you have any question or proposition do not hesitate to contact me.
+If you have any question do not hesitate to contact me.
